@@ -1,4 +1,4 @@
-# Directly connecting jupyter notebook to sagmaker 
+# Directly connecting jupyter notebook to sagemaker for end-point inference
 Using AWS -Sagemaker to train Machine learing model directly from jupyter notebook
 
 ### Most of the times we use AWS UI to access , open notebook inside sagemaker , train the model and inference from endpoint but what if we configure sagemaker using CLI and access it from jupyter notebook from your local machine
