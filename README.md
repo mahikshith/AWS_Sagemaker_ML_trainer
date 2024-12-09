@@ -17,7 +17,7 @@ Using AWS -Sagemaker to train Machine learing model directly from jupyter notebo
 
 ### Create S3 bucket & custom script
 
-Notebook :  AWS_Sagenaker_mL_train.ipynb
+Notebook :  AWS_Sagenaker_mL_train.ipynb [https://github.com/mahikshith/AWS_Sagemaker_ML_trainer/blob/main/AWS_Sagenaker_mL_train.ipynb]
 
 - Create S3 bucket and upload the data to S3 using the code in the notebook
 - Write a custom script [sagemaker_script_ml.py] which contains code for sagemaker to train the model
